@@ -1,4 +1,4 @@
-package com.baeldung.api;
+package com.amqpremote.demo.api;
 
 public class BookingException extends Exception {
     public BookingException(String message) {

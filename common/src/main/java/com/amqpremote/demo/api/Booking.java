@@ -1,4 +1,4 @@
-package com.baeldung.api;
+package com.amqpremote.demo.api;
 
 import java.io.Serializable;
 
